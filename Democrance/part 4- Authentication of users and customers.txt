@@ -1,0 +1,6 @@
+authentication is totally differnt taks. Djnago provides functionality to add users and gorup by giving ready models for 
+that but we have to work on all athentications models nad template like signup, login and signin.
+
+Some of features already provided by djnago like ORL mapping,hashing but we have to work on that.
+
+ 
