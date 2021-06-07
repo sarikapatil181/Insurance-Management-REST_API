@@ -6,7 +6,7 @@ class Customer1(models.Model):
     last_name=models.CharField(max_length=50)
     dob=models.DateField()
 '''
-#customer Model
+#customer Model for customer registration
 class Customer(models.Model):
     first_name=models.CharField(max_length=50)
     last_name=models.CharField(max_length=50)
